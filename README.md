@@ -19,3 +19,15 @@ A condição é uma expressão avaliada uma vez antes de cada iteração. A inst
 
 ### 3) pós-expressão
 A instrução for loop também avalia a pós-expressão após cada iteração do loop. Geralmente, você usa a pós-expressão para atualizar a variável do contador. O fluxograma a seguir ilustra o loop for:
+
+<src img = "JavaScript-for-Loop">
+    
+ No loop for, as três expressões são opcionais. O seguinte mostra como usar o loop for sem quaisquer expressões:
+ 
+ ```
+ for ( ; ; ) {
+   // statements
+}
+ ```
+ 
+ 
