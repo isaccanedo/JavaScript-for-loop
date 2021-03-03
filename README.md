@@ -6,7 +6,7 @@
 A instrução de loop for JavaScript permite que você crie um loop com três expressões opcionais. O seguinte ilustra a sintaxe da instrução for loop:
 
 ```
-for (initialization; condition; post-expression) {
+for (inicialização; condição; pós-expressão) {
     // statements
 }
 ```
