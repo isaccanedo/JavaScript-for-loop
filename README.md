@@ -47,11 +47,11 @@ console.log('Outside the loop:' + counter);
  Saída:
  
  ```
-Inside the loop:1
-Inside the loop:2
-Inside the loop:3
-Inside the loop:4
-Outside the loop:5
+Dentro do loop: 1
+Dentro do loop: 2
+Dentro do loop: 3
+Dentro do loop: 4
+Fora do loop  : 5
  ```
  
  ### Como funciona.
